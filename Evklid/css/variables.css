@@ -1,0 +1,14 @@
+:root {
+  --container-max-width: 1870px;
+  --container-padding: 50px;
+
+  --wite: #FFFFFF;
+  --grey: #666666;
+  --light-grey: #CACACA;
+  --dark: #000000;
+  --default-orange: #FF9900;
+  --light-orange: #FFB84D;
+  --orange: #E1670E;
+  --light-green: #97EE3F;
+
+}
